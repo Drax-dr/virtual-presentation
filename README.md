@@ -11,7 +11,7 @@ Draw and interact using hand gestures via webcam in Python.
 - **5+ Fingers** → No action.
 
 ### Requirements
-- Python 3.8+
+- Python 3.12.x
 - OpenCV
 - MediaPipe
 - NumPy
