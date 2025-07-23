@@ -3,8 +3,10 @@
 Draw and interact using hand gestures via webcam in Python.
 
 ### Gesture Controls
-- **1 Fingers** → Draw with pointer.
-- **2 Fingers** → Show pointer.
+- **Pinky finger** → Next Slide
+-  **Thumb finger** → Previous Slide
+- **Index Finger** → Draw with pointer.
+- **2 Fingers (Index and middle)** → Show pointer.
 - **4 Fingers** → Clear the entire canvas.
 - **5+ Fingers** → No action.
 
